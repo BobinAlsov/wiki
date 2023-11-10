@@ -1,3 +1,2 @@
-<div style="text-align: center;">
-  
-</div>
+# wiki
+Вики про бобина на tiddly wiki!
